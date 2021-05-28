@@ -1,0 +1,33 @@
+Learn Plover::Lesson 2, Steno Order~~~LPL2
+
+past ||| PAFT
+castle ||| KAFL
+stressed ||| STREFD
+pressed ||| PREFD
+passed ||| PAFD
+test ||| TEFT
+tussle ||| TUFL
+crossed ||| KROFD
+
+several ||| SEFRL
+suppress ||| SPRES
+averages ||| AFRGS
+tablet ||| TABLT
+tepid ||| TEPD
+superb ||| SPERB
+scaffold ||| SKAFLD
+scarlet ||| SKARLT
+starlet ||| STARLT
+started ||| STARTD
+ruffled ||| RUFLD
+scuffled ||| SKUFLD
+corrupted ||| KRUPTD
+spotted ||| SPOTD
+horrible ||| HORBL
+effort ||| EFRT
+
+edit ||| ETD
+elves ||| EFLS
+twelve ||| TWEFL
+credit ||| KRETD
+portal ||| PORLT

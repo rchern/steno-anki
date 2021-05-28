@@ -1,0 +1,4 @@
+Learn Plover::Lesson 6, Prefix/Suffix Alternatives~~~LPL6
+
+(Manual Space) ||| S-P
+(Avoid Space) ||| TK-LS

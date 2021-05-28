@@ -1,0 +1,128 @@
+Learn Plover::Lesson 3::Compound Clusters~~~LPL3E
+
+hemp ||| H*EPL
+trump ||| TR*UPL
+rump ||| R*UPL
+romp ||| RO*PL
+ramp ||| RA*PL
+pump ||| P*UPL
+camp ||| KA*PL
+cramp ||| KRA*PL
+tamp ||| TA*PL
+pomp ||| PO*PL
+
+curve ||| KUFRB
+carve ||| KAFRB
+serve ||| SEFRB
+swerve ||| SWEFRB
+starve ||| STAFRB
+
+squelch ||| SKWELG
+
+hulk ||| H*ULG
+calc ||| KA*LG
+sulk ||| S*ULG
+talc ||| TA*LG
+
+rank ||| RA*PBG
+honk ||| HO*PBG
+wonk ||| WO*PBG
+prank ||| PRA*PBG
+crank ||| KRA*PBG
+tank ||| TA*PBG
+
+session ||| SEGS
+option ||| OPGS
+ration ||| RAGS
+portion ||| PORGS
+passion ||| PAGS
+cushion ||| KUGS
+caption ||| KAPGS
+suppression ||| SPREGS
+
+section ||| SEBGS
+correction ||| KREBGS
+suction ||| SUBGS
+
+arch ||| AFRPB
+ranch ||| RAFRPB
+hunch ||| HUFRPB
+porch ||| POFRPB
+crunch ||| KRUFRPB
+quench ||| KWEFRPB
+torch ||| TOFRPB
+trench ||| TREFRPB
+stench ||| STEFRPB
+starch ||| STAFRPB
+
+limp ||| HR*EUPL
+blimp ||| PWHR*EUPL
+chomp ||| KHO*PL
+clamp ||| KHRA*PL
+damp ||| TKA*PL
+slump ||| SHR*UPL
+shrimp ||| SHR*EUPL
+jump ||| SKWR*UPL
+
+nerve ||| TPHEFRB
+verve ||| SREFRB
+marvel ||| PHAFRBL
+
+village ||| SREULG
+mulch ||| PHULG
+bulge ||| PWULG
+belch ||| PWELG
+bilge ||| PWEULG
+gulch ||| TKPWULG
+pillage ||| PEULG
+
+ilk ||| *EULG
+milk ||| PH*EULG
+bulk ||| PW*ULG
+silk ||| S*EULG
+bilk ||| PW*EULG
+
+wink ||| W*EUPBG
+mink ||| PH*EUPBG
+plank ||| PHRA*PBG
+brink ||| PWR*EUPBG
+blink ||| PWHR*EUPBG
+blank ||| PWHRA*PBG
+flank ||| TPHRA*PBG
+flunk ||| TPHR*UPBG
+dank ||| TKA*PBG
+drink ||| TKR*EUPBG
+gunk ||| TKPW*UPBG
+junk ||| SKWR*UPBG
+link ||| HR*EUPBG
+chunk ||| KH*UPBG
+
+lesion ||| HRAOEGS
+provision ||| PREUFGS
+fusion ||| TPAOUGS
+lotion ||| HROEGS
+operation ||| PRAEUGS
+mission ||| PHEUGS
+motion ||| PHOEGS
+pollution ||| PHRAOUGS
+
+election ||| HREBGS
+auction ||| AUBGS
+correction ||| KREBGS
+collection ||| KHREBGS
+fraction ||| TPRABGS
+friction ||| TPREUBGS
+depiction ||| TKPEUBGS
+selection ||| SHREBGS
+seduction ||| STKUBGS
+
+finch ||| TPEUFRPB
+clench ||| KHREFRPB
+branch ||| PWRAFRPB
+march ||| PHAFRPB
+lurch ||| HRUFRPB
+lynch ||| HREUFRPB
+birch ||| PWEUFRPB
+brunch ||| PWRUFRPB
+church ||| KHUFRPB
+drench ||| TKREFRPB

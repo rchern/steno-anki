@@ -1,0 +1,50 @@
+Learn Plover::Lesson 8, Non-Letters~~~LPL8
+
+` ||| KH-FG
+^ ||| KR-RT
+~ ||| T*LD
+< ||| AEPBGT
+= ||| KWA*LS
+> ||| A*EPBGT
+| ||| PAO*EUP
+_ ||| R*UPBD
+- ||| H-PB
+-- ||| TK-RB
+, ||| KW-BG
+; ||| SKWR*RBGS
+: ||| STPH-FPLT
+: ||| KHR-PB
+! ||| SKHRAPL
+? ||| H-F
+/ ||| OEU
+. ||| TP-PL
+. ||| P-P
+... ||| SKWR-RBGS
+' (open) ||| A*E
+' (close) ||| AE
+" ||| KW-GS
+" ||| KR-GS
+( ||| PREPB
+) ||| PR*EPB
+[ ||| PWR-BGT
+] ||| PWR*BGT
+{ ||| TPR-BGT
+} ||| TPR*BGT
+@ ||| KWRAT
+$ ||| TK-PL
+* ||| STA*R
+\ ||| SPWHRAERB
+& ||| SP-PBD
+# ||| HAERB
+% ||| PERS
++ ||| PHR*US
+
+Carriage Return ||| R-R
+New paragraph. Insert two carriage returns and capitalize the next word ||| SKWRAURBGS
+Undo stroke ||| *
+Letter-by-letter backspace ||| PW-FP
+Insert a space ||| S-P
+Insert a space and capitalize the next word ||| KPA
+Camelcase. Do not insert a space, and capitalize the next ||| KPA*
+Do not insert a space before the next word, and don't capitalize the next word ||| TK-LS
+Do not insert a space before the next word, and capitalize the next word ||| KPA*
