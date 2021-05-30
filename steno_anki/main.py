@@ -1,10 +1,13 @@
+import fnmatch
 import os
 
 from options import values as options
-import anki
+from anki import Anki
 
 directory = os.path.abspath(options.input)
-files = os.listdir(directory)
+files = fnmatch.filter(os.listdir(directory), '*.txt')
+
+anki = Anki()
 
 print(files)
 
