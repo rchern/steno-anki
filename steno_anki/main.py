@@ -1,7 +1,9 @@
 import os
-from src import helpers
 
-directory = os.path.abspath(helpers.options.input)
+from options import values as options
+import anki
+
+directory = os.path.abspath(options.input)
 files = os.listdir(directory)
 
 print(files)
@@ -11,12 +13,12 @@ for file in files:
 
     for index, entry in enumerate(entries, start=1):
         if '|||' in entry:
-            helpers.anki.generate_note(entry)
+            anki.generate_note(entry)
         elif '~~~' in entry:
-            helpers.anki.generate_deck(entry)
+            anki.generate_deck(entry)
         elif not entry or entry.startswith('#'):
             continue
         else:
             raise Exception(f'Unknown Line Type {file}#{index}')
 
-helpers.anki.generate_package()
+anki.generate_package()

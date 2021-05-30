@@ -1,8 +1,8 @@
 import genanki
 import os.path
 
-from .options import values as options
-from . import util, diagram
+from options import values as options
+import util, diagram
 
 class StenoNote(genanki.Note):
     @property

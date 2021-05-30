@@ -2,7 +2,7 @@ import os
 import os.path
 import urllib.request
 
-from . import options
+import options
 
 path = os.path.abspath(options.values.diagrams)
 
