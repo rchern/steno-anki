@@ -1,8 +1,16 @@
 import fnmatch
+from argparse import ArgumentParser
 import os
 
-from options import values as options
 from anki import Anki
+
+args = ArgumentParser()
+args.add_argument('-i', '--input', dest='input', default='decks')
+args.add_argument('-o', '--output', dest='output', default='plover.apkg')
+
+options = args.parse_args()
+
+print(options)
 
 directory = os.path.abspath(options.input)
 files = fnmatch.filter(os.listdir(directory), '*.txt')
