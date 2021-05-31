@@ -1,194 +1,194 @@
 Learn Plover::Lesson 3::Vowels~~~LPL3A
 
 # 3-A1 Fifth Vowel
-still ||| STEUL
-rig ||| REUG
-hit ||| HEUT
-sip ||| SEUP
-sir ||| SEUR
-skirt ||| SKEURT
-syrup ||| SEURP
-crypt ||| KREUPT
-pig ||| PEUG
-rift ||| REUFT
-scribble ||| SKREUBL
-rid ||| REUD
-river ||| REUFR
-hid ||| HEUD
-wilt ||| WEULT
-wig ||| WEUG
-wit ||| WEUT
-spill ||| SPEUL
+still	STEUL
+rig	REUG
+hit	HEUT
+sip	SEUP
+sir	SEUR
+skirt	SKEURT
+syrup	SEURP
+crypt	KREUPT
+pig	PEUG
+rift	REUFT
+scribble	SKREUBL
+rid	REUD
+river	REUFR
+hid	HEUD
+wilt	WEULT
+wig	WEUG
+wit	WEUT
+spill	SPEUL
 
 # 3-A2 Long Vowels
-aids ||| AEUDZ
-ace ||| AEUS
-ate ||| AEUT
-able ||| AEUBL
-ape ||| AEUP
-raid ||| RAEUD
-raise ||| RAEUZ
-rail ||| RAEUL
-rate ||| RAEUT
-race ||| RAEUS
-pay ||| PAEU
-paid ||| PAEUD
-pace ||| PAEUS
-tape ||| TAEUP
-spray ||| SPRAEU
-praise ||| PRAEUZ
+aids	AEUDZ
+ace	AEUS
+ate	AEUT
+able	AEUBL
+ape	AEUP
+raid	RAEUD
+raise	RAEUZ
+rail	RAEUL
+rate	RAEUT
+race	RAEUS
+pay	PAEU
+paid	PAEUD
+pace	PAEUS
+tape	TAEUP
+spray	SPRAEU
+praise	PRAEUZ
 
-weaver ||| WAOEFR
-trees ||| TRAOES
-eel ||| AOEL
-eat ||| AOET
-evil ||| AOEFL
-ear ||| AOER
-heat ||| HAOET
-heap ||| HAOEP
-wield ||| WAOELD
-weird ||| WAOERD
-peer ||| PAOER
-priest ||| PRAOEFT
-tree ||| TRAOE
-tweeze ||| TWAOEZ
-tweed ||| TWAOED
-seat ||| SAOET
-cease ||| SAOES
-seed ||| SAOED
-seize ||| SAOEZ
-secrete ||| SKRAOET
+weaver	WAOEFR
+trees	TRAOES
+eel	AOEL
+eat	AOET
+evil	AOEFL
+ear	AOER
+heat	HAOET
+heap	HAOEP
+wield	WAOELD
+weird	WAOERD
+peer	PAOER
+priest	PRAOEFT
+tree	TRAOE
+tweeze	TWAOEZ
+tweed	TWAOED
+seat	SAOET
+cease	SAOES
+seed	SAOED
+seize	SAOEZ
+secrete	SKRAOET
 
-ire ||| AOEUR
-Ill ||| AOEUL
-ice ||| AOEUS
-rifle ||| RAOEUF
-ripe ||| RAOEUP
-right ||| RAOEUT
-height ||| HAOEUT
-wild ||| WAOEULD
-pipe ||| PAOEUP
-pride ||| PRAOEUD
-prize ||| PRAOEUZ
-kite ||| KAOEUT
-type ||| TAOEUP
-spite ||| SPAOEUT
+ire	AOEUR
+Ill	AOEUL
+ice	AOEUS
+rifle	RAOEUF
+ripe	RAOEUP
+right	RAOEUT
+height	HAOEUT
+wild	WAOEULD
+pipe	PAOEUP
+pride	PRAOEUD
+prize	PRAOEUZ
+kite	KAOEUT
+type	TAOEUP
+spite	SPAOEUT
 
-hope ||| HOEP
-spore ||| SPOER
-post ||| POEFT
-sold ||| SOELD
-prose ||| PROES
-ode ||| OED
-oat ||| OET
-over ||| OEFR
-robe ||| ROEB
-rope ||| ROEP
-roar ||| ROER
-rove ||| ROEF
-host ||| HOEFT
-wove ||| WOEF
-wrote ||| WROET
-pole ||| POEL
-pose ||| POES
-cope ||| KOEP
-coat ||| KOET
-code ||| KOED
-crow ||| KROE
-told ||| TOELD
+hope	HOEP
+spore	SPOER
+post	POEFT
+sold	SOELD
+prose	PROES
+ode	OED
+oat	OET
+over	OEFR
+robe	ROEB
+rope	ROEP
+roar	ROER
+rove	ROEF
+host	HOEFT
+wove	WOEF
+wrote	WROET
+pole	POEL
+pose	POES
+cope	KOEP
+coat	KOET
+code	KOED
+crow	KROE
+told	TOELD
 
-cube ||| KAOUB
-use ||| AOUZ
-rude ||| RAOUD
-rule ||| RAOUL
-pure ||| PAOUR
-prude ||| PRAOUD
-Proust ||| PRAOUFT
-cure ||| KAOUR
-cute ||| KAOUT
-crew ||| KRAOU
-cruel ||| KRAOUL
-crude ||| KRAOUD
-cruise ||| KRAOUS
-truce ||| TRAOUS
-truth ||| TRAOUT
-spew ||| SPAOU
-skew ||| SKAOU
+cube	KAOUB
+use	AOUZ
+rude	RAOUD
+rule	RAOUL
+pure	PAOUR
+prude	PRAOUD
+Proust	PRAOUFT
+cure	KAOUR
+cute	KAOUT
+crew	KRAOU
+cruel	KRAOUL
+crude	KRAOUD
+cruise	KRAOUS
+truce	TRAOUS
+truth	TRAOUT
+spew	SPAOU
+skew	SKAOU
 
 # 3-A3 Dipthongs
 
-all ||| AUL
-awful ||| AUFL
-raw ||| RAU
-call ||| KAUL
-caught ||| KAUT
-crawl ||| KRAUL
-sprawl ||| SPRAUL
-scald ||| SKAULD
-straw ||| STRAU
-halt ||| HAULT
-hall ||| HAUL
-wall ||| WAUL
+all	AUL
+awful	AUFL
+raw	RAU
+call	KAUL
+caught	KAUT
+crawl	KRAUL
+sprawl	SPRAUL
+scald	SKAULD
+straw	STRAU
+halt	HAULT
+hall	HAUL
+wall	WAUL
 
-out ||| OUT
-how ||| HOU
-howl ||| HOUL
-house ||| HOUS
-pout ||| POUT
-power ||| POUR
-prowl ||| PROUL
-tower ||| TOUR
-spouse ||| SPOUS
-sprout ||| SPROUT
-scour ||| SKOUR
+out	OUT
+how	HOU
+howl	HOUL
+house	HOUS
+pout	POUT
+power	POUR
+prowl	PROUL
+tower	TOUR
+spouse	SPOUS
+sprout	SPROUT
+scour	SKOUR
 
-soy ||| SOEU
-oil ||| OEUL
-coil ||| KOEUL
-toil ||| TOEUL
-soil ||| SOEUL
+soy	SOEU
+oil	OEUL
+coil	KOEUL
+toil	TOEUL
+soil	SOEUL
 
 # 3-A4 Vowel Disambiguators
 
-wheel ||| WHAOEL
-wheal ||| WHAEL
-reed ||| RAOED
-read ||| RAED
-reel ||| RAOEL
-real ||| RAEL
-heel ||| HAOEL
-heal ||| HAEL
-here ||| HAOER
-hear ||| HAER
-ware ||| WAEUR
-wear ||| WAER
-pee ||| PAOE
-pea ||| PAE
-piece ||| PAOES
-peace ||| PAES
-tee ||| TAOE
-tea ||| TAE
-see ||| SAOE
-sea ||| SAE
-tail ||| TAEUL
-tale ||| TAEL
-sail ||| SAEUL
-sale ||| SAEL
-stair ||| STAEUR
-stare ||| STAER
-waist ||| WAEUFT
-waste ||| WAEFT
-hood ||| HAOD
-rude ||| RAOUD
-pool ||| PAOL
-crew ||| CRAOU
-soot ||| SAOT
-truce ||| TRAOUS
-school ||| SKAOL
-ruse ||| RAOUZ
-road ||| RAOD
-rode ||| ROED
-roar ||| RAOR
-toad ||| TAOD
-soar ||| SAOR
-sore ||| SOR
+wheel	WHAOEL
+wheal	WHAEL
+reed	RAOED
+read	RAED
+reel	RAOEL
+real	RAEL
+heel	HAOEL
+heal	HAEL
+here	HAOER
+hear	HAER
+ware	WAEUR
+wear	WAER
+pee	PAOE
+pea	PAE
+piece	PAOES
+peace	PAES
+tee	TAOE
+tea	TAE
+see	SAOE
+sea	SAE
+tail	TAEUL
+tale	TAEL
+sail	SAEUL
+sale	SAEL
+stair	STAEUR
+stare	STAER
+waist	WAEUFT
+waste	WAEFT
+hood	HAOD
+rude	RAOUD
+pool	PAOL
+crew	CRAOU
+soot	SAOT
+truce	TRAOUS
+school	SKAOL
+ruse	RAOUZ
+road	RAOD
+rode	ROED
+roar	RAOR
+toad	TAOD
+soar	SAOR
+sore	SOR

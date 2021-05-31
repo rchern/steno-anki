@@ -15,7 +15,7 @@ for file in files:
     entries = open(os.path.join(directory, file)).read().splitlines()
 
     for index, entry in enumerate(entries, start=1):
-        if '|||' in entry:
+        if '\t' in entry:
             anki.generate_note(entry)
         elif '~~~' in entry:
             anki.generate_deck(entry)

@@ -1,114 +1,114 @@
 Learn Plover::Lesson 1, Fingers and Keys~~~LPL1
 
-had ||| HAD
-half ||| HAF
-hag ||| HAG
-has ||| HAS
-hat ||| HAT
-head ||| HED
-hell ||| HEL
-her ||| HER
-hog ||| HOG
-hop ||| HOP
-not ||| NOT
-hub ||| HUB
-huff ||| HUF
-hug ||| HUG
-hull ||| HUL
-hut ||| HUT
-cab ||| KAB
-cad ||| KAD
-cap ||| KAP
-car ||| KAR
-cat ||| KAT
-keg ||| KEG
-cod ||| KOD
-cog ||| KOG
-cop ||| KOP
-core ||| KOR
-cot ||| KOT
-cub ||| KUB
-cuff ||| KUF
-cull ||| KUL
-cup ||| KUP
-cur ||| KUR
-cuss ||| KUS
-cut ||| KUT
-pad ||| PAD
-pal ||| PAL
-pass ||| PAS
-pat ||| PAT
-peg ||| PEG
-pep ||| PEP
-pet ||| PET
-pod ||| POD
-poll ||| POL
-pour ||| POR
-pot ||| POT
-pub ||| PUB
-puff ||| PUF
-pug ||| PUG
-pull ||| PULL
-pup ||| PUP
-pus ||| PUS
-put ||| PUT
-rag ||| RAG
-rap ||| RAP
-rat ||| RAT
-red ||| RED
-rob ||| ROB
-rod ||| ROD
-roll ||| ROLL
-roar ||| ROR
-rot ||| ROT
-rub ||| RUB
-rough ||| RUF
-rug ||| RUG
-rut ||| RUT
-sad ||| SAD
-sag ||| SAG
-sap ||| SAP
-sass ||| SAS
-sat ||| SAT
-sell ||| SEL
-set ||| SET
-says ||| SEZ
-sob ||| SOB
-sop ||| SOP
-tab ||| TAB
-tad ||| TAD
-tag ||| TAG
-tap ||| TAP
-tar ||| TAR
-tell ||| TEL
-toll ||| TOL
-top ||| TOP
-tour ||| TOR
-tub ||| TUB
-tough ||| TUF
-tug ||| TUG
-wad ||| WAD
-wag ||| WAG
-war ||| WAR
-was ||| WAS
-web ||| WEB
-wed ||| WED
-well ||| WEL
-wet ||| WET
-wore ||| WOR
+had	HAD
+half	HAF
+hag	HAG
+has	HAS
+hat	HAT
+head	HED
+hell	HEL
+her	HER
+hog	HOG
+hop	HOP
+not	NOT
+hub	HUB
+huff	HUF
+hug	HUG
+hull	HUL
+hut	HUT
+cab	KAB
+cad	KAD
+cap	KAP
+car	KAR
+cat	KAT
+keg	KEG
+cod	KOD
+cog	KOG
+cop	KOP
+core	KOR
+cot	KOT
+cub	KUB
+cuff	KUF
+cull	KUL
+cup	KUP
+cur	KUR
+cuss	KUS
+cut	KUT
+pad	PAD
+pal	PAL
+pass	PAS
+pat	PAT
+peg	PEG
+pep	PEP
+pet	PET
+pod	POD
+poll	POL
+pour	POR
+pot	POT
+pub	PUB
+puff	PUF
+pug	PUG
+pull	PULL
+pup	PUP
+pus	PUS
+put	PUT
+rag	RAG
+rap	RAP
+rat	RAT
+red	RED
+rob	ROB
+rod	ROD
+roll	ROLL
+roar	ROR
+rot	ROT
+rub	RUB
+rough	RUF
+rug	RUG
+rut	RUT
+sad	SAD
+sag	SAG
+sap	SAP
+sass	SAS
+sat	SAT
+sell	SEL
+set	SET
+says	SEZ
+sob	SOB
+sop	SOP
+tab	TAB
+tad	TAD
+tag	TAG
+tap	TAP
+tar	TAR
+tell	TEL
+toll	TOL
+top	TOP
+tour	TOR
+tub	TUB
+tough	TUF
+tug	TUG
+wad	WAD
+wag	WAG
+war	WAR
+was	WAS
+web	WEB
+wed	WED
+well	WEL
+wet	WET
+wore	WOR
 
-course ||| KORS
-cover ||| KOFR
-hover ||| HOFR
-rabble ||| RABL
-refer ||| REFR
-rebel ||| REBL
-robbed ||| ROBD
-rubbed ||| RUBD
-rubble ||| RUBL
-straps ||| STRAPS
-strapped ||| STRAPD
-trouble ||| TRUBL
-troubles ||| TRUBLS
-waft ||| WAFT
-webbed ||| WEBD
+course	KORS
+cover	KOFR
+hover	HOFR
+rabble	RABL
+refer	REFR
+rebel	REBL
+robbed	ROBD
+rubbed	RUBD
+rubble	RUBL
+straps	STRAPS
+strapped	STRAPD
+trouble	TRUBL
+troubles	TRUBLS
+waft	WAFT
+webbed	WEBD

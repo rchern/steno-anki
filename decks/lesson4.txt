@@ -1,106 +1,106 @@
 Learn Plover::Lesson 4, Common Briefs~~~LPL4
 
-the ||| -T
-of ||| F
-to ||| TO
-in ||| TPH
-a ||| AEU
-is ||| S-
-that ||| THA
-with ||| W
-be ||| B
-by ||| PWEU
-he ||| E
-I ||| EU
-this ||| TH
-are ||| R-
-which ||| WEU
-have ||| SR
-they ||| THE
-you ||| U
-youd ||| UD
-youll ||| UL
+the	-T
+of	F
+to	TO
+in	TPH
+a	AEU
+is	S-
+that	THA
+with	W
+be	B
+by	PWEU
+he	E
+I	EU
+this	TH
+are	R-
+which	WEU
+have	SR
+they	THE
+you	U
+youd	UD
+youll	UL
 
-youre ||| UR
-youve ||| UF
-were ||| WR
-can ||| K
-there ||| THR
-been ||| PWPB
-if ||| TP
-would ||| WO
-who ||| WHO
-other ||| OER
-what ||| WHA
-only ||| OEPBL
-do ||| TKO
-new ||| TPHU
-about ||| PW
-two ||| TWO
-any ||| TPHEU
-could ||| KO
-after ||| AF
-said ||| SAEUD
+youre	UR
+youve	UF
+were	WR
+can	K
+there	THR
+been	PWPB
+if	TP
+would	WO
+who	WHO
+other	OER
+what	WHA
+only	OEPBL
+do	TKO
+new	TPHU
+about	PW
+two	TWO
+any	TPHEU
+could	KO
+after	AF
+said	SAEUD
 
-very ||| SRE
-many ||| PHAEPB
-even ||| AOEPB
-where ||| W-R
-through ||| THRU
-being ||| -BG
-because ||| PWAUS
-before ||| PW-F
-upon ||| POPB
-without ||| WOUT
-another ||| TPHOER
-against ||| TKPWEPBS
-every ||| EFR
-within ||| W-PB
-example ||| KP-PL
-others ||| OERS
-therefore ||| THR-FR
-having ||| SR-G
-become ||| PW-BG
-whether ||| WHR
+very	SRE
+many	PHAEPB
+even	AOEPB
+where	W-R
+through	THRU
+being	-BG
+because	PWAUS
+before	PW-F
+upon	POPB
+without	WOUT
+another	TPHOER
+against	TKPWEPBS
+every	EFR
+within	W-PB
+example	KP-PL
+others	OERS
+therefore	THR-FR
+having	SR-G
+become	PW-BG
+whether	WHR
 
-somebody ||| S-B
-somehow ||| SPHOU
-someone ||| SPH-PB
-someplace ||| SPHRAEUS
-something ||| S-G
-sometimes ||| STAOEUPLS
-somewhere ||| SWR
-question ||| KWE
-almost ||| HR-PL
-interest ||| TR
-ever ||| -FR
-became ||| PWAEUPL 
-probably ||| PROBL
-include ||| KHRU
-includes ||| KHRUS
-included ||| KHRUD
-including ||| KHRUG
-amount ||| APLT
-receive ||| SAOEF
-received ||| SAOEFD
+somebody	S-B
+somehow	SPHOU
+someone	SPH-PB
+someplace	SPHRAEUS
+something	S-G
+sometimes	STAOEUPLS
+somewhere	SWR
+question	KWE
+almost	HR-PL
+interest	TR
+ever	-FR
+became	PWAEUPL 
+probably	PROBL
+include	KHRU
+includes	KHRUS
+included	KHRUD
+including	KHRUG
+amount	APLT
+receive	SAOEF
+received	SAOEFD
 
-describe ||| SKREU
-described ||| SKREUD
-anything ||| TPHEUG
-continue ||| T-PB
-continued ||| T-PBD
-beginning ||| TKPWEUPBG
-understand ||| URPBD
-understanding ||| URPBGD
-today ||| TOED
-opinion ||| P-PB
-becomes ||| PW-BGS
-yes ||| KWRE
-idea ||| KWR-D
-ideas ||| KWR-DZ
-actually ||| TWAEUL
-move ||| PHOF
-ask ||| SK
-unless ||| TPH-LS
-easy ||| EZ
-otherwise ||| O*ERZ
+describe	SKREU
+described	SKREUD
+anything	TPHEUG
+continue	T-PB
+continued	T-PBD
+beginning	TKPWEUPBG
+understand	URPBD
+understanding	URPBGD
+today	TOED
+opinion	P-PB
+becomes	PW-BGS
+yes	KWRE
+idea	KWR-D
+ideas	KWR-DZ
+actually	TWAEUL
+move	PHOF
+ask	SK
+unless	TPH-LS
+easy	EZ
+otherwise	O*ERZ

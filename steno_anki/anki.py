@@ -1,8 +1,7 @@
 import genanki
-import os.path
 
 from options import values as options
-import util, diagram
+import util
 
 class StenoNote(genanki.Note):
     @property
@@ -15,6 +14,7 @@ class Anki:
         'Steno',
         fields=[
             {'name': 'Translation'},
+            {'name': 'Outline'},
             {'name': 'Diagram'}
         ],
         templates=[
@@ -29,19 +29,34 @@ class Anki:
                 'afmt': '{{FrontSide}}<hr id="answer">{{Translation}}'
             }
         ],
-        css='.card { font-family: arial; font-size: 20px; text-align: center; color: black; background-color: white; }'
+        css=
+"""@font-face { 
+    font-family: "StenoDisplay-LetterFont"; 
+    src: url("_StenoDisplay-LetterFont.ttf"); 
+} 
+.card { 
+    font-family: arial; 
+    font-size: 20px; 
+    text-align: center; 
+} 
+.steno { 
+    font-family: "StenoDisplay-LetterFont"; 
+    font-size: 128px; 
+    color: teal;
+}"""
     )
 
     def __init__(self):
-        self.media = [];
         self.decks = [];
         self.current_deck = None
 
     
 
     def generate_package(self):
+        print('Generating package')
+
         package = genanki.Package(self.decks)
-        package.media_files = self.media
+        package.media_files = ["_StenoDisplay-LetterFont.ttf"]
         package.write_to_file(options.output)
 
     def generate_deck(self, entry):
@@ -57,18 +72,15 @@ class Anki:
         if self.current_deck is None:
             raise Exception('Must define a deck first')
 
-        translation, outline = util.split_strip(entry, '|||')
+        translation, outline = util.split_strip(entry, '\t')
         diagrams_html = ''
 
         for chord in util.split_strip(outline, '/'):
-            filename = diagram.download(chord)
-
-            self.media.append(os.path.join(options.diagrams, filename))
-            diagrams_html += f'<img src="{filename}" />'
+            diagrams_html += f'<div class="steno">{chord}</div>'
 
         self.current_deck.add_note(
             StenoNote(
                 model=Anki.steno_model,
-                fields=[translation, diagrams_html]
+                fields=[translation, outline, diagrams_html]
             )
         )
