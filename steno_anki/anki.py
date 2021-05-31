@@ -1,6 +1,4 @@
 import genanki
-
-from options import values as options
 import util
 
 class StenoNote(genanki.Note):
@@ -50,14 +48,12 @@ class Anki:
         self.decks = [];
         self.current_deck = None
 
-    
-
-    def generate_package(self):
+    def generate_package(self, output):
         print('Generating package')
 
         package = genanki.Package(self.decks)
         package.media_files = ["_StenoDisplay-LetterFont.ttf"]
-        package.write_to_file(options.output)
+        package.write_to_file(output)
 
     def generate_deck(self, entry):
         title, id_string = map(lambda s: s.strip(), entry.split('~~~'))

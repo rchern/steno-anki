@@ -24,4 +24,4 @@ for file in files:
         else:
             raise Exception(f'Unknown Line Type {file}#{index}')
 
-anki.generate_package()
+anki.generate_package(options.output)
