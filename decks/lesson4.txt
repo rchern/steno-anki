@@ -1,14 +1,14 @@
 Learn Plover::Lesson 4, Common Briefs~~~LPL4
 
 the	-T
-of	F
+of	-F
 to	TO
 in	TPH
 a	AEU
 is	S-
 that	THA
 with	W
-be	B
+be	-B
 by	PWEU
 he	E
 I	EU
@@ -26,7 +26,7 @@ youve	UF
 were	WR
 can	K
 there	THR
-been	PWPB
+been	PW-PB
 if	TP
 would	WO
 who	WHO
