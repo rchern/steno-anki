@@ -39,4 +39,4 @@ jobs:
         prerelease: true
         title: 'Continuous Build'
         files: |
-          plover.apkg
+          dist/*.apkg
