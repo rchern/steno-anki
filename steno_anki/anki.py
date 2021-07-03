@@ -49,8 +49,6 @@ class Anki:
         self.current_deck = None
 
     def generate_package(self, output):
-        print('Generating package')
-
         package = genanki.Package(self.decks)
         package.media_files = ["_StenoDisplay-LetterFont.ttf"]
         package.write_to_file(output)
@@ -58,8 +56,6 @@ class Anki:
     def generate_deck(self, entry):
         title, id_string = map(lambda s: s.strip(), entry.split('~~~'))
         id = util.generate_identifier(id_string)
-
-        print([title, id_string, id])
 
         self.current_deck = genanki.Deck(id, title)
         self.decks.append(self.current_deck)
