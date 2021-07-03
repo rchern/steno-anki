@@ -18,7 +18,7 @@ class Anki:
         templates=[
             {
                 'name': 'Steno Card 1',
-                'qfmt': '{{Translation}}',
+                'qfmt': '{{Translation}}<br>{{type:Outline}}',
                 'afmt': '{{FrontSide}}<hr id="answer">{{Diagram}}'
             },
             {
@@ -28,7 +28,8 @@ class Anki:
             }
         ],
         css=
-"""@font-face { 
+"""
+@font-face { 
     font-family: "StenoDisplay-LetterFont"; 
     src: url("_StenoDisplay-LetterFont.ttf"); 
 } 
@@ -39,9 +40,26 @@ class Anki:
 } 
 .steno { 
     font-family: "StenoDisplay-LetterFont"; 
-    font-size: 128px; 
-    color: teal;
-}"""
+    font-size: 192px; 
+    color: #008080;
+}
+.typeGood,
+.nightMode .typeGood,
+.night_mode .typeGood
+ {
+    background-color: #008080;
+    color: white;
+}
+.typeBad, 
+.typeMissed,
+.nightMode .typeBad,
+.nightMode .typeMissed,
+.night_mode .typeBad,
+.night_mode .typeMissed {
+    background-color: #800000;
+    color: white;
+}
+"""
     )
 
     def __init__(self):
