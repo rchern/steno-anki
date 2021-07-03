@@ -2,7 +2,7 @@
 
 A collection of shared Anki decks contributed by the community for those learning stenograpy. The repository also contains the backing Python script used to generate the Anki decks from text files.
 
-<p style="text-align: center;">
+<p align="center">
     <img src="assets/screenshot.png" />
 </p>
 
@@ -55,4 +55,4 @@ Additional decks that would be of value to the community are absolutely welcome 
 
 ## Contact
 
-rchern on the Plover Discord.
+Becca - PWEBG/KA (Becca#3246) on the Plover Discord.
