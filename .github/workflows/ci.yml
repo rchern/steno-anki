@@ -13,7 +13,6 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -31,6 +30,7 @@ jobs:
       run: |
         python steno_anki/main.py 
     - name: Automatic Releases
+      if: ${{ github.ref == 'refs/heads/main' }}
       uses: marvinpinto/action-automatic-releases@v1.2.1
       with:
         repo_token: '${{ secrets.GITHUB_TOKEN }}'
