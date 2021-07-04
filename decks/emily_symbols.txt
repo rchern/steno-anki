@@ -1,0 +1,162 @@
+Emily's Symbols~~~ES
+# https://github.com/EPLHREU/emily-symbols
+
+(do not insert a space)	SKWH- 
+(delete retroactive space)	SKWHE 
+(insert retroactive space)	SKWHU 
+(insert space)	SKWHEU 
+
++	SKWH-G 
+∑	SKWHEG 
+¶	SKWHUG 
+±	SKWHEUG 
+
+*	SKWH-L 
+∏	SKWHEL 
+§	SKWHUL 
+×	SKWHEUL 
+
+:	SKWH-LG 
+∋	SKWHELG 
+∵	SKWHULG 
+∴	SKWHEULG 
+
+,	SKWH-B 
+∪	SKWHEB 
+∨	SKWHUB 
+∉	SKWHEUB 
+
+_	SKWH-BG 
+≤	SKWHEBG 
+≥	SKWHUBG 
+µ	SKWHEUBG 
+
+`	SKWH-P 
+⊂	SKWHEP 
+⊃	SKWHUP 
+π	SKWHEUP 
+
+-	SKWH-PL 
+−	SKWHEPL 
+–	SKWHUPL 
+—	SKWHEUPL 
+
+|	SKWH-PB 
+⊤	SKWHEPB 
+⊥	SKWHUPB 
+¦	SKWHEUPB 
+
+=	SKWH-PBLG 
+≡	SKWHEPBLG 
+≈	SKWHUPBLG 
+≠	SKWHEUPBLG 
+
+.	SKWH-R 
+•	SKWHER 
+·	SKWHUR 
+…	SKWHEUR 
+
+;	SKWH-RB 
+∀	SKWHERB 
+∃	SKWHURB 
+∄	SKWHEURB 
+
+)	SKWH-RBG 
+≤	SKWHERBG 
+>	SKWHURBG 
+}	SKWHEURBG 
+
+/	SKWH-RP 
+⇒	SKWHERP 
+⇔	SKWHURP 
+÷	SKWHEURP 
+
+^	SKWH-RPG 
+«	SKWHERPG 
+»	SKWHURPG 
+°	SKWHEURPG 
+
+(up)	SKWH-RPBG 
+(left)	SKWHERPBG 
+(right)	SKWHURPBG 
+(down)	SKWHEURPBG 
+
+$	SKWH-RPBL 
+¥	SKWHERPBL 
+€	SKWHURPBL 
+£	SKWHEURPBL 
+
+'	SKWH-F 
+‘	SKWHEF 
+’	SKWHUF 
+‚	SKWHEUF 
+
+(tab)	SKWH-FG 
+(backspace)	SKWHEFG 
+(delete)	SKWHUFG 
+(escape)	SKWHEUFG 
+
+\	SKWH-FB 
+Δ	SKWHEFB 
+√	SKWHUFB 
+∞	SKWHEUFB 
+
+&	SKWH-FBG 
+∩	SKWHEFBG 
+∧	SKWHUFBG 
+∈	SKWHEUFBG 
+
+"	SKWH-FP 
+“	SKWHEFP 
+”	SKWHUFP 
+„	SKWHEUFP 
+
+(	SKWH-FPL 
+[	SKWHEFPL 
+<	SKWHUFPL 
+{	SKWHEUFPL 
+
+?	SKWH-FPB 
+¿	SKWHEFPB 
+∝	SKWHUFPB 
+‽	SKWHEUFPB 
+
+~	SKWH-FPBG 
+⊆	SKWHEFPBG 
+⊇	SKWHUFPBG 
+˜	SKWHEUFPBG 
+
+↑	SKWH-FPBL 
+←	SKWHEFPBL 
+→	SKWHUFPBL 
+↓	SKWHEUFPBL 
+
+!	SKWH-FR 
+¬	SKWHEFR 
+↦	SKWHUFR 
+¡	SKWHEUFR 
+
+#	SKWH-FRLG 
+©	SKWHEFRLG 
+®	SKWHUFRLG 
+™	SKWHEUFRLG 
+
+(audio toggle play)	SKWH-FRBG 
+(audio previous)	SKWHEFRBG 
+(audio next)	SKWHUFRBG 
+(audio toggle mute)	SKWHEUFRBG 
+
+%	SKWH-FRPB 
+‰	SKWHEFRPB 
+‱	SKWHUFRPB 
+φ	SKWHEUFRPB 
+
+(page up)	SKWH-FRPBG 
+(home)	SKWHEFRPBG 
+(end)	SKWHUFRPBG 
+(page down)	SKWHEUFRPBG 
+
+@	SKWH-FRPBLG 
+⊕	SKWHEFRPBLG 
+⊗	SKWHUFRPBLG
+∅	SKWHEUFRPBLG 
