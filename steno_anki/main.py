@@ -31,12 +31,14 @@ def process():
         generate_deck(options.input, [file], os.path.splitext(file)[0])
 
 def generate_deck(input_directory, files, name):
-    output_filepath = os.path.join(options.output, f'{name}.apkg')
+    print(name)
     
+    output_filepath = os.path.join(options.output, f'{name}.apkg')
+
     anki = Anki()
 
     for file in files:
-        entries = open(os.path.join(input_directory, file)).read().splitlines()
+        entries = open(os.path.join(input_directory, file), encoding="utf8").read().splitlines()
 
         for index, entry in enumerate(entries, start=1):
            if '\t' in entry:

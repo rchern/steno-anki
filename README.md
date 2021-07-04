@@ -9,7 +9,8 @@ A collection of shared Anki decks contributed by the community for those learnin
 ## Community Decks
 |Name|Contributor|Description|
 |-|-|-|
-|learn_plover|rchern|A sub-deck per lesson from the [Learn Plover!](https://sites.google.com/site/learnplover/) site.
+|learn_plover|rchern|A sub-deck per lesson from the [Learn Plover!](https://sites.google.com/site/learnplover/) site.|
+|emily_symbols|rchern|A deck for [Emily's Symbol Dictionary](https://github.com/EPLHREU/emily-symbols)|
 
 ## Deck Usage
 
