@@ -1,0 +1,108 @@
+Emily's Modifiers~~~EM
+# https://github.com/EPLHREU/emily-modifiers
+# US Keyboard Layout
+
+# Modifiers
+(control)	-FLTZ
+(shift)	-RLTZ
+(super)	-PLTZ
+(alt)	BLTZ
+
+# Numbers
+0	AOLTZ
+1	RAOLTZ
+2	WAOLTZ
+3	WRAOLTZ
+4	KAOLTZ
+5	KRAOLTZ
+6	KWAOLTZ
+7	KWRAOLTZ
+8	SAOLTZ
+9	SRAOLTZ
+
+# Function Keys
+F1	TPRAOLTZ
+F2	TPWAOLTZ
+F3	TPWRAOLTZ
+F4	TKPAOLTZ
+F5	TKPRAOLTZ
+F6	TKPWAOLTZ
+F7	TKPWRAOLTZ
+F8	STPAOLTZ
+F9	STPRAOLTZ
+F10	STPWAOLTZ
+F11	STPWRAOLTZ
+F12	STKPAOLTZ
+
+# Modifier Switches
+(tab)	TR*LTZ
+(delete)	TRA*LTZ
+(backspace)	TRO*LTZ
+(escape)	TRAO*LTZ
+
+(up)	KPWR*LTZ
+(left)	KPWRA*LTZ
+(right)	KPWRO*LTZ
+(down)	KPWRAO*LTZ
+
+(pageup)	KPWHR*LTZ
+(end)	KPWHRA*LTZ
+(home)	KPWHRO*LTZ
+(pagedown)	KPWHRAO*LTZ
+
+(escape)	*LTZ
+(tab)	A*LTZ
+(return)	O*LTZ
+(space)	AO*LTZ
+
+!	HR*RLTZ
+
+"	PH*RLTZ
+
+#	TKHR*RLTZ
+
+$	KPWH*RLTZ
+
+%	PWHR*RLTZ
+
+&	SKP*RLTZ
+
+(	TPH*RLTZ
+<	TPHA*RLTZ
+[	TPHO*LTZ
+{	TPHAO*RLTZ
+
+)	KWR*RLTZ
+>	KWRA*RLTZ
+]	KWRO*LTZ
+}	KWRAO*RLTZ
+
+*	T*LTZ
+
++	K*LTZ
+
+,	W*LTZ
+
+-	TP*LTZ
+
+.	R*LTZ
+
+/	WH*LTZ
+
+:	TK*RLTZ
+
+;	WR*LTZ
+
+=	TKPW*LTZ
+
+?	TPW*RLTZ
+
+@	TKPWHR*RLTZ
+
+\	PR*LTZ
+
+^	KPR*RLTZ
+
+|	PW*RLTZ
+
+~	TPWR*RLTZ
