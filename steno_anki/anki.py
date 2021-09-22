@@ -4,7 +4,7 @@ import util
 class StenoNote(genanki.Note):
     @property
     def guid(self):
-        return genanki.guid_for(self.fields[0], self.fields[1])
+        return genanki.guid_for(self.fields[0])
 
 class Anki:
     steno_model = genanki.Model(

@@ -243,7 +243,7 @@ second	SEBGD
 until	TPH-L
 group	TKPWRAOUP
 patients	PAEURBZ
-far	TKP
+far	TPAR
 important	PORPB
 among	PHOPBG
 control	KROEL
@@ -251,13 +251,13 @@ love	HR-F
 name	TPHAEUPL
 women	WEUPL
 help	HEP
-away	W*EU
+away	WA*EU
 including	KHRUG
 feel	TPAOEL
 getting	TKPWEGT
 done	TKOPB
 give	TKPWEUF
-yet	TPHET
+yet	KWRET
 man	PHAPB
 report	RORP
 bad	PWAD
