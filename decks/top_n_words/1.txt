@@ -53,7 +53,7 @@ who	WHO
 which	WEU
 out	OUT
 said	SED
-their	TRAEUR
+their	THAEUR
 no	TPHO
 she	SHE
 up	UP
@@ -107,7 +107,7 @@ very	SRE
 many	PHAEPB
 going	TKPWOG
 new	TPHU
-should	SHOULD
+should	SHO
 such	SUFP
 used	AOUFD
 make	PHAEUBG
