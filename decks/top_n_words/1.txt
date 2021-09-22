@@ -78,7 +78,7 @@ these	THEZ
 its	EUTS
 now	TPHOU
 then	THEPB
-could	KWO
+could	KO
 only	OEPBL
 really	R-L
 into	TPHAO
