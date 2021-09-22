@@ -12,6 +12,7 @@ A collection of shared Anki decks contributed by the community for those learnin
 |learn_plover|rchern|A sub-deck per lesson from the [Learn Plover!](https://sites.google.com/site/learnplover/) site.|
 |emily_symbols|rchern|A deck for [Emily's Symbol Dictionary](https://github.com/EPLHREU/emily-symbols)|
 |emily_modifiers_us|rchern|A deck for [Emily's Modifiers Dictionary](https://github.com/EPLHREU/emily-modifiers) using a US keyboard layout|
+|top_n_words|rchern|A sub-deck per 1k words|
 
 ## Deck Usage
 
