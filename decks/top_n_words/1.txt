@@ -476,7 +476,7 @@ whatever	WHAFR
 involved	SROFD
 parents	PAEURPBTS
 team	TAOEPL
-front	TPOPBT
+front	TPROPBT
 matter	PHAERT
 increased	EUPB/KRAOES/-D
 gets	TKPWETS
