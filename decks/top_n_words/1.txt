@@ -542,7 +542,7 @@ list	HR*EUS
 needs	TPHAOEDZ
 short	SHORT
 financial	TP-PBL
-exactly	SA*LGT
+exactly	ELG
 cut	KUT
 except	KPEPT
 behind	HEUPBD
@@ -772,7 +772,7 @@ nation	TPH-GS
 bill	PWEUL
 received	SAOEFD
 phone	TPOEPB
-primary	PRAOEURPL
+primary	PROEURPL
 episode	EP/SOED
 production	PRUBGS
 completely	KPHRAOELT
@@ -791,7 +791,7 @@ corporate	KORPT
 situation	SEUFP
 samples	SA*EPLS
 budget	PWUGT
-killed	killed
+killed	KEULD
 containing	KAUPB/TAEUPBG
 drive	TKRAOEUF
 education	ED/KAEUGS
