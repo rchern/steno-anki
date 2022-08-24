@@ -10,7 +10,7 @@ hell	HEL
 her	HER
 hog	HOG
 hop	HOP
-not	NOT
+not	TPHOT
 hub	HUB
 huff	HUF
 hug	HUG
@@ -48,7 +48,7 @@ pot	POT
 pub	PUB
 puff	PUF
 pug	PUG
-pull	PULL
+pull	PUL
 pup	PUP
 pus	PUS
 put	PUT
@@ -58,7 +58,7 @@ rat	RAT
 red	RED
 rob	ROB
 rod	ROD
-roll	ROLL
+roll	ROL
 roar	ROR
 rot	ROT
 rub	RUB
