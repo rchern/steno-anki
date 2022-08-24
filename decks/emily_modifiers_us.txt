@@ -6,7 +6,7 @@ Emily's Modifiers~~~EM
 (control)	-FLTZ
 (shift)	-RLTZ
 (super)	-PLTZ
-(alt)	BLTZ
+(alt)	-BLTZ
 
 # Numbers
 0	AOLTZ
