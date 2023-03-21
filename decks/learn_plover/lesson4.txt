@@ -18,11 +18,11 @@ which	WEU
 have	SR
 they	THE
 you	U
-youd	UD
-youll	UL
+you'd	UD
+you'll	UL
 
-youre	UR
-youve	UF
+you're	UR
+you've	UF
 were	WR
 can	K
 there	THR
