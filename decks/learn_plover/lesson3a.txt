@@ -60,7 +60,7 @@ seize	SAOEZ
 secrete	SKRAOET
 
 ire	AOEUR
-Ill	AOEUL
+I'll	AOEUL
 ice	AOEUS
 rifle	RAOEUF
 ripe	RAOEUP
