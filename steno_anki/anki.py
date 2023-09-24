@@ -30,8 +30,8 @@ class Anki:
         css=
 """
 @font-face { 
-    font-family: "StenoDisplay-LetterFont"; 
-    src: url("_StenoDisplay-LetterFont.ttf"); 
+    font-family: "Stenodisplay-ClassicLarge";
+    src: url("_Stenodisplay-ClassicLarge.ttf");
 } 
 .card { 
     font-family: arial; 
@@ -39,8 +39,8 @@ class Anki:
     text-align: center; 
 } 
 .steno { 
-    font-family: "StenoDisplay-LetterFont"; 
-    font-size: 192px; 
+    font-family: "Stenodisplay-ClassicLarge";
+    font-size: 168px;
     color: #008080;
 }
 .typeGood,
@@ -68,7 +68,7 @@ class Anki:
 
     def generate_package(self, output):
         package = genanki.Package(self.decks)
-        package.media_files = ["_StenoDisplay-LetterFont.ttf"]
+        package.media_files = ["_Stenodisplay-ClassicLarge.ttf"]
         package.write_to_file(output)
 
     def generate_deck(self, entry):
