@@ -42,6 +42,7 @@ class Anki:
     font-family: "Stenodisplay-ClassicLarge";
     font-size: 168px;
     color: #008080;
+    white-space: nowrap;
 }
 .typeGood,
 .nightMode .typeGood,
