@@ -44,7 +44,7 @@ on^	AUPB
 ^s	-S
 ^s	AES
 ^ed	-D
-^d	*D
+^'d	*D
 ^itious	EURBS
 ^aceous	AEURBS
 ^licious	HREURBS
