@@ -227,7 +227,6 @@ crag	KRAG
 crass	KRAS
 crop	KROP
 cross	KROS
-cell	KREL
 cress	KRES
 cred	KRED
 crud	KRUD

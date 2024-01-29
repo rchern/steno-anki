@@ -177,7 +177,6 @@ cube	KAOUB
 cute	KAOUT
 brute	PWRAOUT
 bruise	PWRAOUS
-bruise	PWRAOUZ
 boule	PWAOUL
 mure	PHAOUR
 mule	PHAOUL
@@ -310,3 +309,4 @@ oaf	OEF
 oat	OET
 our	OUR
 owl	OUL
+faze	TPAEUZ

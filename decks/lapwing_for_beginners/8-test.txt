@@ -177,7 +177,6 @@ cube	KAOUB
 cute	KAOUT
 brute	PWRAOUT
 bruise	PWRAOUS
-bruise	PWRAOUZ
 boule	PWAOUL
 mure	PHAOUR
 mule	PHAOUL
@@ -325,7 +324,6 @@ data	TKAET
 flare	TPHRAER
 fare	TPAER
 feat	TPAET
-faze	TPAEZ
 tear	TAER
 tale	TAEL
 cheap	KHAEP
@@ -353,7 +351,6 @@ ate	AET
 deal	STKAOEL
 sneer	STPHAOER
 sneeze	STPHAOEZ
-steel	STPAOEL
 street	STRAOET
 steer	STAOER
 steep	STAOEP
@@ -487,10 +484,8 @@ eep	AOEP
 eel	AOEL
 eat	AOET
 ease	AOES
-
 snipe	STPHAOEUP
 snide	STPHAOEUD
-snipe	STPAOEUP
 suffice	STPAOEUS
 strife	STRAOEUF
 stripe	STRAOEUP
@@ -553,7 +548,6 @@ quite	KWAOEUT
 chive	KHAOEUF
 chile	KHAOEUL
 chide	KHAOEUD
-cite	KRAOEUT
 cried	KRAOEUD
 kite	KAOEUT
 blight	PWHRAOEUT
