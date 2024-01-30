@@ -1,0 +1,204 @@
+Lapwing Summary~~~LS
+
+# Chapter 5
+short 'i'	EU
+d-	TK
+b-	PW
+l-	HR
+
+# Chapter 6
+f-	TP
+q-	KW
+m-	PH
+g-	TKPW
+n-	TPH
+y-	KWR*
+z-	S*
+v-	SR
+j-	SKWR
+
+# Chapter 7
+long 'o'	OE
+'ow'	OU
+'oy'	OEU
+long 'a'	AEU
+long 'u' or long 'oo'	AOU
+
+# Chapter 8
+long 'e'	AOE
+long 'i'	AOEU
+short 'o' without o	AU
+long 'a' / long 'e' alternate 	AE
+'oo' spelling / 'oa' conflict	AO
+
+# Chapter 9
+-v	-F
+-st primary	-FT
+-st conflict	*S
+-m	-PL
+-k	-BG
+-mp	*PL
+-th	*T
+-lk	*LG
+
+# Chapter 10
+-n	-PB
+-j	-PBLG
+-lj or -lch	-LG
+-rv	-FRB
+-rf	*FRB
+-ng or -nj	-PBG
+-nk	*PBG
+-ch	-FP
+-sh	-RB
+-rch or -nch	-FRPB
+
+# Chapter 11
+-shun	-GS
+-x or -kshun	-BGS
+-ment	-PLT
+-let	-LT
+-bl/-abl/-ibl/-bal/-bel/-bil	-BL
+
+# Chapter 12
+ph	TP*
+wr	WR
+ch	KH
+wh	WH
+c alternate	KR
+-t	*T
+-f or -v	*F
+
+# Chapter 13
+a-	A
+co-	KOE
+de-	TKAOE
+for-	TPOR
+in-	EUPB
+mis-	PHEUS
+non-	TPHOPB
+pro-	PROE
+re-	RAOE
+sub-	SUB
+-y	KWREU
+-ly	HREU
+-ar	A*R
+-or	O*R
+-er	*ER
+-al	A*L
+-ful	-FL
+-ness	-PBS
+-ment	-PLT
+-ability or -ibility	-BLT
+-able	-BL
+-let	-LT
+-ant	KWRAPBT
+-ation	KWRAEUGS
+-ize	KWRAOEUZ
+-out	KWROUT
+-ive	KWREUF
+-ism	KWREUFPL
+-ist	KWREUFT
+-in	KWREUPB
+-ic	KWREUBG
+-en	KWREPB
+
+# Chapter 14
+-ing	-G
+-s	-S
+-ed	-D
+-s pronounced like z	-Z
+
+# Chapter 17
+a	 A*
+b	PW*
+c	KR*
+d	TK*
+e	*E
+f	TP*
+g	TKPW*
+h	H*
+i	*EU
+j	SKWR*
+k	K*
+l	HR*
+m	PH*
+n	TPH*
+o	O*
+p	P*
+q	KW*
+r	R*
+s	S*
+t	T*
+u	*U
+v	SR*
+w	W*
+x	KP*
+y	KWR*
+z	STKPW*
+A	 A*P
+B	PW*P
+C	KR*P
+D	TK*P
+E	*EP
+F	TP*P
+G	TKPW*P
+H	H*P
+I	*EUP
+J	SKWR*P
+K	K*P
+L	HR*P
+M	PH*P
+N	TPH*P
+O	O*P
+P	P*P
+Q	KW*P
+R	R*P
+S	S*P
+T	T*P
+U	*UP
+V	SR*P
+W	W*P
+X	KP*P
+Y	KWR*P
+Z	STKPW*P
+
+7	#-F
+8	#-P
+9	#-L
+4	#-FR
+5	#-PB
+6 	#-LG
+1	#-R
+2	#-B
+3	#-G
+0	#E
+00	#U
+000	#EU
+70	#EF
+80	#EP
+90	#EL
+40	#EFR
+50	#EPB
+60	#ELG
+10	#ER
+20	#EB
+30	#EG
+700	#UF
+800	#UP
+900	#UL
+400	#UFR
+500	#UPB
+600	#ULG
+100	#UR
+200	#UB
+300	#UG
+7000	#EUF
+8000	#EUP
+9000	#EUL
+4000	#EUFR
+5000	#EUPB
+6000	#EULG
+1000	#EUR
+2000	#EUB
+3000	#EUG
