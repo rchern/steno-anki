@@ -44,6 +44,9 @@ class Anki:
     color: #008080;
     white-space: nowrap;
 }
+.mono {
+    font-family: monospace;
+}
 .typeGood,
 .nightMode .typeGood,
 .night_mode .typeGood

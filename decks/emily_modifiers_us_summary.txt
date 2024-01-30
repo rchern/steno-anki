@@ -1,0 +1,79 @@
+Emily's Modifiers Summary~~~EMS
+# https://github.com/EPLHREU/emily-modifiers
+# US Keyboard Layout
+
+
+unique ending	-LTZ
+(control)	-FLTZ
+(shift)	-RLTZ
+(super)	-PLTZ
+(alt)	-BLTZ
+
+A	ALTZ
+B	PW-LTZ
+C	KR-LTZ
+D	TK-LTZ
+E	ELTZ
+F	TP-LTZ
+G	TKPW-LTZ
+H	H-LTZ
+I	AOEULTZ
+I (alternate)	EULTZ
+J	SKWR-LTZ
+K	K-LTZ
+L	HR-LTZ
+M	PH-LTZ
+N	TPH-LTZ
+O	OLTZ
+P	P-LTZ
+Q	KW-LTZ
+R	R-LTZ
+S	S-LTZ
+T	T-LTZ
+U	ULTZ
+V	SR-LTZ
+W	W-LTZ
+X	KP-LTZ
+Y	KWR-LTZ
+Z	STKPW-LTZ
+Z (alternate)	STKPWHR-LTZ
+0	AOLTZ
+1	RAOLTZ
+2	WAOLTZ
+3	WRAOLTZ
+4	KAOLTZ
+5	KRAOLTZ
+6	KWAOLTZ
+7	KWROLTZ
+8	SAOLTZ
+9	SRAOLTZ
+(function key)	TPAOLTZ
+whitespace<br>aligning with tips of arrows on a tab key legend ↹<br><div class="mono"> tab, delete, backspace, escape</div>	TR*
+arrows<br>looks like an arrow key cluster<br><div class="mono">up, left, right, down</div>	KPWR*
+navigation mirrored<br>arrow key cluster but with an additional key held down<br><div class="mono">pageup, home, end, pagedown</div>	KPWHR*
+blank<br>it's self-descriptive<br><div class="mono">escape, tab, return, space</div>	*
+! mirrored<br>vertical shape that's off to the right, like ! on a regular keyboard mirrored<br><div class="mono">!, , ¬, ¡</div>	HR*
+" mirrored<br>two dots up high like its shape, and off to the right<br><div class="mono">", , ,</div>	PH*
+# mirrored<br>two vertical bars like in the shape<br><div class="mono">#, ®, ©,</div>	TKHR*
+$<br>makes an S shape like a $<br><div class="mono">$, €, ¥, £</div>	KPWH*
+% mirrored<br>same as a / but with the two extra keys representing the dots<br><div class="mono">%, , ,</div>	PWHR*
+' mirrored<br>one dot up high, similar to ", on tpphe index for importance<br><div class="mono">', , ,</div>	H*
+& mirrored and shifted left<br>shifted version of the standard 'and' brief<br><div class="mono">&, , ,</div>	SKP*
+(<br>similar to the standard steno brief<br><div class="mono">(, &lt;, [, { </div>	TPH*
+)<br>similar to the standard steno brief<br><div class="mono">), &gt;, ], } </div>	KWR*
+* mirrored<br>single dot shape, off to the left, up high in the sky<br><div class="mono">*, §, , ×</div>	T*
++ mirrored<br>single dot shape, off to the left, under the star<br><div class="mono">+, ¶, , ±</div>	K*
+,<br>single dot shape, below like on a keyboard, middle finger as less important<br><div class="mono">,, , ,</div>	W*
+- mirrored<br>line in shape, up in the top left mirrored from a normal keyboard<br><div class="mono">-, , ,</div>	TP*
+. mirrored<br>single dot in shape, below like on a keyboard, index finger as important<br><div class="mono">., ·, ,</div>	R*
+/ shifted right<br>shape of a /<br><div class="mono">/, , , ÷</div>	WH*
+: mirrored<br>vertical shape, off to the right like a normal keyboard<br><div class="mono">:, , ,</div>	TK*
+; mirrored<br>literally a , and . at the same time<br><div class="mono"><br><div class="mono">, , ,</div> 	WR*
+= mirrored<br>literally a - and a _ at the same time<br><div class="mono">=, , ,</div>	TKPW*
+?<br>looks like the top of a ?<br><div class="mono">?, , ¿,</div>	TPW*
+@<br>large complicated shape, only way to make a big spiral<br><div class="mono">@, , ,</div>	TKPWHR*
+\ shifted right<br>shape of a \<br><div class="mono">\, , ,</div>	PR*
+^<br>shape of a ^ and other pointy/raised symbols<br><div class="mono">^, «, », °</div>	KPR*
+`<br>single dot up high, next to '<br><div class="mono">`, , ,</div>	P*
+|<br>nice symmetrical vertical shape goes in the middle<br><div class="mono">, , , |</div>	PW*
+~<br>makes the shape of a ~<br><div class="mono">~, , ,</div>	TPWR*

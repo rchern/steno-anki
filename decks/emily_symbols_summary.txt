@@ -1,0 +1,39 @@
+Emily's Symbols Summary~~~ESS
+# https://github.com/EPLHREU/emily-symbols
+
+capitalize next input	SKWH*
+
+whitespace<br> aligning with tips of arrows on a tab key legend ↹<br><div class="mono">{#Tab} {#Backspace} {#Delete} {#Escape}</div>	SKWH-FG
+arrows<br> looks like an arrow key cluster<br><div class="mono">{#Up} {#Left} {#Right} {#Down}</div>	SKWH-RPBG
+↑<br> looks like an upside-down arrow key cluster<br><div class="mono">↑ ← → ↓</div>	SKWH-FPBL
+navigation<br> arrow key cluster but with an additional key held down<br><div class="mono">{#Page_Up} {#Home} {#End} {#Page_Down}</div>	SKWH-FRPBG
+music<br> like a strangely rotated L for _L_ovely music<br><div class="mono">{#AudioPlay} {#AudioPrev} {#AudioNext} {#AudioMute}</div>	SKWH-FRBG
+audio<br> like a smaller strangely rotated L for _l_ovely music control<br><div class="mono">{#AudioMute} {#AudioLowerVolume} {#AudioRaiseVolume} {#Eject}</div>	SKWH-FRB
+blank<br> it's self-descriptive<br><div class="mono">''; {*!} (retro delete space); {*?} (retro insert space); {#Space}</div>	SKWH-
+capitalization<br> up at the top, separate, it's pointy like capital letters<br><div class="mono">retro cap word; retro upper word; upper next word; retro lower word</div>	SKWH-FL
+!<br> vertical shape that's off to the left, like ! on a regular keyboard<br><div class="mono">! ¬ ↦ ¡</div>	SKWH-FR
+"<br> two dots up high like its shape, and off to the left like on ISO keyboards<br><div class="mono">" “ ” „</div>	SKWH-FP
+#<br> two vertical bars like in the shape<br><div class="mono"># © ® ™</div>	SKWH-FRLG
+$<br> makes an S shape like a $<br><div class="mono">$ ¥ € £</div>	SKWH-RPBL
+%<br> same as a / but with the two extra keys representing the dots<br><div class="mono">% ‰ ‱ φ</div>	SKWH-FRPB
+&<br> makes a mirror image of the standard 'and' brief (mirrored for ease)<br><div class="mono">& ∩ ∧ ∈</div>	SKWH-FBG
+'<br> one dot up high, similar to ", on the index for importance<br><div class="mono">' ‘ ’ ‚</div>	SKWH-F
+(<br> similar to the standard steno brief<br><div class="mono">( [ &lt; { </div>	SKWH-FPL
+)<br> similar to the standard steno brief<br><div class="mono">) ] &gt; } </div>	SKWH-RBG
+*<br> single dot shape, off to the right like JIS, up high in the sky<br><div class="mono">* ∏ § ×</div>	SKWH-L
++<br> single dot shape, off to the right like JIS, under the star<br><div class="mono">+ ∑ ¶ ±</div>	SKWH-G
+","<br> single dot shape, below like on a keyboard, middle finger as less important<br><div class="mono">, ∪ ∨ ∉</div>	SKWH-B
+-<br> line in shape, up in the top right like a normal keyboard<br><div class="mono">- − – —</div>	SKWH-PL
+.<br> single dot in shape, below like on a keyboard, index finger as important<br><div class="mono">. • · …</div>	SKWH-R
+/<br> shape of a /<br><div class="mono">/ ⇒ ⇔ ÷</div>	SKWH-RP
+:<br> vertical shape, off to the right like a normal keyboard<br><div class="mono">: ∋ ∵ ∴</div>	SKWH-LG
+;<br> literally a , and . at the same time<br><div class="mono">; ∀ ∃ ∄</div>	SKWH-RB
+=<br> literally a - and a _ at the same time<br><div class="mono">= ≡ ≈ ≠</div>	SKWH-PBLG
+?<br> looks like the top of a ?<br><div class="mono">? ¿ ∝ ‽</div>	SKWH-FPB
+@<br> large complicated shape, only way to make a big spiral<br><div class="mono">@ ⊕ ⊗ ∅</div>	SKWH-FRPBLG
+\<br> shape of a \<br><div class="mono">\ Δ √ ∞</div>	SKWH-FB
+^<br> shape of a ^ and other pointy/raised symbols<br><div class="mono">^ « » °</div>	SKWH-RPG
+_<br> a line down low opposing -, and other lowered symbols<br><div class="mono">_ ≤ ≥ µ</div>	SKWH-BG
+`<br> single dot up high, next to '<br><div class="mono">` ⊂ ⊃ π</div>	SKWH-P
+|<br> nice symmetrical vertical shape goes in the middle<br><div class="mono">| ⊤ ⊥ ¦</div>	SKWH-PB
+~<br> makes the shape of a ~<br><div class="mono">~ ⊆ ⊇ ˜</div>	SKWH-FPBG
