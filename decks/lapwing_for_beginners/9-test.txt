@@ -1,6 +1,5 @@
 Lapwing for Beginners::Chapter 09: Right Hand Chords~~~LB9
 
-stock	STKOBG
 sneak	STPHAOEBG
 snake	STPHAEUBG
 sneak	STPHAEBG
@@ -136,7 +135,6 @@ fleck	TPHREBG
 nuke	TPHAOUBG
 nook	TPHAOBG
 name	TPHAEUPL
-enemy	TPHAEPL
 knack	TPHABG
 gnome	TPHOEPL
 nom	TPHOPL

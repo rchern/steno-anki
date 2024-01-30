@@ -18,7 +18,7 @@ destine	TKES/TEUPB
 negates	TPHE/TKPWAEUT/-Z
 philosopher	TP*EU/HRO/SO/TP*ER
 firmament	TPEUR/PHAPLT
-traditionally	TRA/TKEUGS/A*L/KWREU
+traditionally	TRA/TKEUGS/KWRAL/KWREU
 transfusion	TRAPBS/TPAOUGS
 tobogganing	TO/PWO/TKPWAPB/-G
 telecommunication	TE/HRE/KO/PHAOU/TPHEU/KAEUGS
@@ -27,7 +27,7 @@ converges	KOPB/SRERPBLG/-Z
 compel	KOPL/PEL
 country	KUPB/TREU
 bravissimo	PWRA/SREU/SEU/PHOE
-musical	PHAOU/SEUBG/A*L
+musical	PHAOU/SEUBG/KWRAL
 moisture	PHOEUS/KHUR
 metropolitan	PHE/TROE/PO/HREU/TAPB
 predisposition	PRAOE/TKEUS/PO/SEUGS
@@ -156,8 +156,6 @@ encourage	EPB/KORPBLG
 emulate	EPL/KWRAOU/HRAEUT
 emend	EPL/KWREPBD
 exasperate	EBG/SAS/PER/KWRAEUT
-eligible	EL/KWREU/SKWREUBL
-elite	EL/KWREUT
 esophagus	ES/KWRO/TPA/TKPWUS
 striation	STRAOEU/KWRAEUGS
 geography	SKWRAOE/KWRO/TKPWRAF/KWREU
